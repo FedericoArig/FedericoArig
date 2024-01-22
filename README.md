@@ -1,6 +1,6 @@
 <br clear="both">
 
-<p align="center">Hi 👋! 
+<p align="center">
 Hi 👋! My name is Federico Arigò, and I'm a former Data Analyst from Italy! 🇮🇹 Currently, I'm diving into the fascinating world of data exploration through projects in SQL, Python, and Power BI. 💻📊 Join me on this exciting journey as I sharpen my skills and unlock new insights in the realm of data analytics! 🚀 Let's connect and explore the endless possibilities together! 🌐 #DataExplorer #SQL #Python #PowerBI #DataAnalytics 📈✨</p>
 
 ###
